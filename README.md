@@ -1,6 +1,9 @@
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
+### Name : Jeshwanth Kumar 
+### Reg.No : 212223240114
+
 # AIM:
 
 To explore network sniffing and ARP Attacks
@@ -29,6 +32,9 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+![arspoof](https://github.com/user-attachments/assets/5f77a3a0-b3e5-45e1-a4d8-496c77d3d565)
+
+![windows](https://github.com/user-attachments/assets/2dd90b1a-7938-49d2-b1d1-b548a7082fa4)
 
 
  dsniff:
@@ -41,13 +47,18 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
+![meta](https://github.com/user-attachments/assets/1b1f0550-8686-403e-9291-90334a7c49eb)
+
+
 
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+![dsniff](https://github.com/user-attachments/assets/5917a015-c412-461c-9dd7-d7b4e3aa61e8)
 
+![wireshark](https://github.com/user-attachments/assets/4f0b10c8-7b13-4b75-b21a-96552d5600b1)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
