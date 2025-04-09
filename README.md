@@ -32,9 +32,10 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![arspoof](https://github.com/user-attachments/assets/5f77a3a0-b3e5-45e1-a4d8-496c77d3d565)
+![image](https://github.com/user-attachments/assets/7a9e74c7-f4a4-480c-a785-76cce55672a3)
 
-![windows](https://github.com/user-attachments/assets/2dd90b1a-7938-49d2-b1d1-b548a7082fa4)
+![windows](https://github.com/user-attachments/assets/4ccb96e5-0963-4706-8d02-e36ed099eefa)
+
 
 
  dsniff:
@@ -47,7 +48,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-![meta](https://github.com/user-attachments/assets/1b1f0550-8686-403e-9291-90334a7c49eb)
+![ftp](https://github.com/user-attachments/assets/43d16496-02fd-417b-b325-63a9a614b29c)
 
 
 
@@ -56,9 +57,11 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![dsniff](https://github.com/user-attachments/assets/5917a015-c412-461c-9dd7-d7b4e3aa61e8)
+![dsniff](https://github.com/user-attachments/assets/6d426938-eafa-414f-8a2d-52a94d777b6b)
 
-![wireshark](https://github.com/user-attachments/assets/4f0b10c8-7b13-4b75-b21a-96552d5600b1)
+
+![wireshark](https://github.com/user-attachments/assets/ab2998b0-3fcd-4af8-be70-276b9d937631)
+
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
